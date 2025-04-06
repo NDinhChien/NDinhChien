@@ -1,6 +1,6 @@
 # Hi there, I'm Nguyen Dinh Chien 👋
 
-## 🎓 About Me
+## About Me
 - 🎓 Graduated from **University of Science** with a **Bachelor’s Degree in Information Security**.
 - 🔥 Passionate **Backend Developer** specializing in scalable backend systems.
 - 🌟 Comfortable working with **Java**, **Spring Boot**, **Typescript** and **NestJS**.
@@ -12,15 +12,15 @@
 ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-## 🚀 Current Goals
+## 🎯 Career Goals
 - 🌱 **Currently seeking** a **Backend Developer** role to work on large-scale systems and deepen my backend development skills.
 - 🤝 Open to **job opportunities**, **collaboration**, and **learning**.
 
 ## 📬 Contact Me
 - **Full Name:** Nguyen Dinh Chien  
-- **📍 Location:** Ho Chi Minh City, Vietnam  
-- **📧 Email:** dinhchien16022002@gmail.com  
-- **📱 Phone:** +84 943 430 265
+- **Location:** Ho Chi Minh City, Vietnam  
+- **Email:** dinhchien16022002@gmail.com  
+- **Phone:** +84 943 430 265
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dinhchien16022002@gmail.com)
 
