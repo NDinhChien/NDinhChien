@@ -2,9 +2,9 @@
 
 ## About Me
 - 🎓 Graduated from **University of Science** with a **Bachelor’s Degree in Information Security**.
-- 🔥 Passionate **Backend Developer** specializing in scalable backend systems.
-- 🌟 Comfortable working with **Java**, **Spring Boot**, **Typescript** and **NestJS**.
-- 🌎 Big dreamer: I love **English** and aspire to **work abroad** one day.
+- 🔥 Passionate **Java Backend Developer** aiming to build scalable backend systems.
+- 🌟 Experienced working with **Java**, **Spring Boot** projects.
+- 🌎 Being an **English lover**, dream to **work abroad** one day.
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -12,8 +12,8 @@
 ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-## 🎯 Career Goals
-- 🌱 **Currently seeking** a **Backend Developer** role to work on large-scale systems and deepen my backend development skills.
+## 🚀 Status
+- 🌱 **Currently seeking** a **Java Backend Developer** role.
 - 🤝 Open to **job opportunities**, **collaboration**, and **learning**.
 
 ## 📬 Contact Me
